@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "693715034909",
+    "project_id": "teamdnt-22fee",
+    "storage_bucket": "teamdnt-22fee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693715034909:android:af6c7c865635725572b7f4",
+        "android_client_info": {
+          "package_name": "com.ecosystem.teamdnt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693715034909-up00l5nvn8f54p9n0ej5nml1bpjhcksd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdekXtJh46FaZtaXMQXyot-iw0ay6c_30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693715034909-up00l5nvn8f54p9n0ej5nml1bpjhcksd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "693715034909-6j25jmibek8piql5t3foabgqcatbu6p1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ecosystem.teamdnt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
